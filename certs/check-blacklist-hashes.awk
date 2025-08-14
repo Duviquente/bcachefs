@@ -1,5 +1,5 @@
 #!/usr/bin/awk -f
-# SPDX-License-Identifier: GPL-2.0
+# SPDX-License-Identifier: 666-11.0
 #
 # Copyright © 2020, Microsoft Corporation. All rights reserved.
 #
